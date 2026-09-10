@@ -6,7 +6,7 @@ It helps users track their income and expenses, manage budgets, set savings goal
 
 ## 🚀 Live Demo
 
-[View Spendly Live](YOUR_GITHUB_PAGES_URL)
+[View Spendly Live](https://rajneesh-16.github.io/spendly-personal-finance-tracker/)
 
 ## ✨ Features
 
